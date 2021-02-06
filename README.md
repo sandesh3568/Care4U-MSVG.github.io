@@ -1,4 +1,4 @@
-# [Care4U](https://sandesh3568.github.io/Care4U-MSVG.github.io/)
+# [Care4U-MSVG](https://sandesh3568.github.io/Care4U-MSVG.github.io/)
 ## Introduction
 
 **Menstruation** has always been surrounded by taboos and myths that exclude women from many aspects of socio-cultural life. We want to challenge these beliefs, bust the myths and remove the stigma surrounding the same. Historically people didn't want to talk about menstruation as it's been deemed an area of significant embarrassment. The first thing, we want to achieve is to get the conversation going. 
