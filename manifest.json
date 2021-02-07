@@ -1,0 +1,22 @@
+{
+    "name": "Care4U",
+    "short_name": "Care4U",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "description": "Will write here something too",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    
+    "icons": [
+        {
+          "src": "/assets/images/logo.png",
+          "type": "image/png",
+          "sizes": "256x256",
+          "purpose": "maskable any"
+        }         
+      ]
+}
