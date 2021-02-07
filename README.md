@@ -16,7 +16,7 @@ In this project, Our motive is to provide an **ergonomic platform** that is easi
 
 
 ###  ✍️ &nbsp; Current Progress
-We have started making the website using HTML and CSS. We have made different sections for providing the information regarding various topics which includes symptoms, treatments, fitness.etc. We will also be creating a Tracker using basic JAVA Script and adding it soon. 
+we have completed the HTML and CSS part of our project. we have also added the basic Java Script in it for the tracker. Some CSS templates are remaining. Now, we are going to compile all the pages that have been created. 
 
 ### ⚙️ &nbsp; Ultimate Objective
 Our objective is to raise awareness and to destigmatize menstruation and also to provide a platform where one can track their cycles and learn more about the same, thereby ,have better control over their health and well-being. 
